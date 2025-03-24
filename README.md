@@ -34,7 +34,7 @@ This Power BI dashboard provides a detailed analysis of business sales performan
 - Visualizes global sales distribution for better planning
 
 ## 📷 Dashboard Preview
-- ![Business Performance Analysis Dashboard](https://github.com/user-attachments/assets/534e5d02-3ab8-48ef-ad5f-ee445ecfd1fd)
+![Business Performance Analysis Dashboard](https://github.com/user-attachments/assets/534e5d02-3ab8-48ef-ad5f-ee445ecfd1fd)
 
 
 
