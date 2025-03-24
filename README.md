@@ -25,7 +25,7 @@ This Power BI dashboard provides a detailed analysis of business sales performan
 - Excel / SQL for raw data processing
 
 ## 📷 Dashboard Interaction
-- < a href="https://github.com/priti7540/Business-Performance-Analysis-Dashboard/blob/main/Business%20Performance%20Analysis%20Dashboard.png">View Dashboard<?a>
+- <a href="https://github.com/priti7540/Business-Performance-Analysis-Dashboard/blob/main/Business%20Performance%20Analysis%20Dashboard.png">View Dashboard</a>
 
 ## 💼 Business Impact
 - Provides a clear view of profit and loss trends
